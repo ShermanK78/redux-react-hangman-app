@@ -40,25 +40,25 @@ Before you begin, ensure you have the following installed on your Windows PC:
 
 1. Clone the repository using Git:
 
-git clone https://github.com/your-username/hangman-game.git
+  git clone https://github.com/your-username/hangman-game.git
 
 3. Navigate to the project directory:
   
-cd redux-hangman-app
+  cd redux-hangman-app
 
 6. Install the project dependencies:
 
-npm install
+  npm install
 
 9. Install Redux and React Bootstrap packages:
 
-npm install redux react-bootstrap
+  npm install redux react-bootstrap
 
 ### Usage
 
 1. Start the development server:
    
-npm start
+  npm start
 
 3. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Hangman Game App.
 
