@@ -1,17 +1,28 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// Import the required modules from React and ReactDOM
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// Import your main App component
+import App from "./App";
+
+// Import the Provider component from React Redux to provide the store to your app
+import { Provider } from "react-redux";
+
+// Import the Redux store
+import store from "./store/store";
+
+// Import the function for reporting web vitals
+import reportWebVitals from "./reportWebVitals";
+
+// Create a root using ReactDOM.createRoot and target the element with id "root"
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+// Render the App component wrapped in the Provider, passing the Redux store
 root.render(
-  <React.StrictMode>
+  <Provider store={store}>
     <App />
-  </React.StrictMode>
+  </Provider>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// Export the reportWebVitals function
+export default reportWebVitals;
