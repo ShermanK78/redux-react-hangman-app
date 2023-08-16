@@ -38,28 +38,37 @@ Before you begin, ensure you have the following installed on your Windows PC:
 
 ### Installation
 
-1. Clone the repository using Git: git clone https://github.com/your-username/hangman-game.git
+1. Clone the repository using Git:
 
-2. Navigate to the project directory: cd redux-hangman-app
+git clone https://github.com/your-username/hangman-game.git
 
-4. Install the project dependencies: npm install
+3. Navigate to the project directory:
+  
+cd redux-hangman-app
 
-6. Install Redux and React Bootstrap packages separately: npm install redux react-bootstrap
+6. Install the project dependencies:
+
+npm install
+
+9. Install Redux and React Bootstrap packages:
+
+npm install redux react-bootstrap
 
 ### Usage
 
 1. Start the development server:
+   
 npm start
 
-2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Hangman Game App.
+3. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Hangman Game App.
 
-3. Follow the on-screen instructions to play the game. Guess letters by clicking on the alphabet buttons, and use the clues and visual feedback to make informed guesses.
+4. Follow the on-screen instructions to play the game. Guess letters by clicking on the alphabet buttons, and use the clues and visual feedback to make informed guesses.
 
-4. There is an on screen ‘Help’ button that activates the ‘Show Rules’ and ‘Show Strategies’ buttons.
+5. There is an on screen ‘Help’ button that activates the ‘Show Rules’ and ‘Show Strategies’ buttons.
 
-5. Clicking the ‘Show Rules’ button will render an on-screen alert, that explains the rules of the Hangman game in detail.
+6. Clicking the ‘Show Rules’ button will render an on-screen alert, that explains the rules of the Hangman game in detail.
 
-6. Clicking the ‘Show Strategies’ button renders and on-screen alert, that highlights strategies one could possibly use to succeed in winning the game.
+7. Clicking the ‘Show Strategies’ button renders and on-screen alert, that highlights strategies one could possibly use to succeed in winning the game.
 
 ### FAQs
 
