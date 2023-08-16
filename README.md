@@ -43,12 +43,15 @@ Before you begin, ensure you have the following installed on your Windows PC:
 git clone https://github.com/your-username/hangman-game.git
 
 2. Navigate to the project directory:
+   
 cd hangman-game
 
-3. Install the project dependencies:
+4. Install the project dependencies:
+   
 npm install
 
-4. Install Redux and React Bootstrap packages separately:
+6. Install Redux and React Bootstrap packages separately:
+   
 npm install redux react-bootstrap
 
 ### Usage
