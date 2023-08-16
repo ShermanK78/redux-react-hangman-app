@@ -69,6 +69,7 @@ npm start
 ### FAQs
 
 Q: How do I start playing the Hangman Game?
+
 A: To start playing the Hangman Game, follow these steps:
 
 Install the game on your Windows PC by following the installation instructions in the README.md file.
