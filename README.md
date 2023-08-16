@@ -104,11 +104,8 @@ Our team and the community will review your suggestion and provide feedback. It 
 Q: How can I get help if I'm stuck or have questions?
 A: If you need assistance, have questions, or need help while playing the Hangman Game or contributing to the project, you can:
 
-Refer to the README.md file for installation and usage instructions.
 Check the FAQ section in this document for answers to common questions.
+
 Open a GitHub issue to report a bug, suggest a feature, or ask a question.
 
 Enjoy playing the Hangman Game App and have fun exploring the world of word guessing and puzzles!
-
-
-
