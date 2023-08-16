@@ -60,15 +60,15 @@ Before you begin, ensure you have the following installed on your Windows PC:
    
   npm start
 
-3. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Hangman Game App.
+2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Hangman Game App.
 
-4. Follow the on-screen instructions to play the game. Guess letters by clicking on the alphabet buttons, and use the clues and visual feedback to make informed guesses.
+3. Follow the on-screen instructions to play the game. Guess letters by clicking on the alphabet buttons, and use the clues and visual feedback to make informed guesses.
 
-5. There is an on screen ‘Help’ button that activates the ‘Show Rules’ and ‘Show Strategies’ buttons.
+4. There is an on screen ‘Help’ button that activates the ‘Show Rules’ and ‘Show Strategies’ buttons.
 
-6. Clicking the ‘Show Rules’ button will render an on-screen alert, that explains the rules of the Hangman game in detail.
+5. Clicking the ‘Show Rules’ button will render an on-screen alert, that explains the rules of the Hangman game in detail.
 
-7. Clicking the ‘Show Strategies’ button renders and on-screen alert, that highlights strategies one could possibly use to succeed in winning the game.
+6. Clicking the ‘Show Strategies’ button renders and on-screen alert, that highlights strategies one could possibly use to succeed in winning the game.
 
 ### FAQs
 
