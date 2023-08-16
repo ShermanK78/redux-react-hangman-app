@@ -78,6 +78,7 @@ Use the provided clues and visual feedback to make informed guesses.
 Enjoy the challenge of guessing the word before running out of chances!
 
 Q: How do I contribute to the Hangman Game?
+
 A: We welcome contributions from the community! If you'd like to contribute to the Hangman Game, follow these steps:
 
 Fork the repository on GitHub.
@@ -88,6 +89,7 @@ Open a pull request to the original repository.
 Our team will review your contribution, provide feedback, and merge it if it aligns with the project's goals.
 
 Q: I found a bug in the game. What should I do?
+
 A: If you encounter a bug or issue while playing the Hangman Game, please follow these steps:
 
 Check the existing issues in the GitHub repository to see if the bug has already been reported.
@@ -95,6 +97,7 @@ If the bug is not reported, open a new GitHub issue and provide detailed informa
 Our team will investigate the issue and work on resolving it. Feel free to follow the issue for updates.
 
 Q: Can I suggest new features for the Hangman Game?
+
 A: Absolutely! We value your input and suggestions. If you have an idea for a new feature or enhancement, please follow these steps:
 
 Check the existing GitHub issues and pull requests to see if the feature has already been suggested or discussed.
@@ -102,6 +105,7 @@ If not, open a new GitHub issue and describe the new feature you'd like to sugge
 Our team and the community will review your suggestion and provide feedback. It may be added to the project if it aligns with our goals.
 
 Q: How can I get help if I'm stuck or have questions?
+
 A: If you need assistance, have questions, or need help while playing the Hangman Game or contributing to the project, you can:
 
 Open a GitHub issue to report a bug, suggest a feature, or ask a question.
