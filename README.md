@@ -51,7 +51,7 @@ npm install
 4. Install Redux and React Bootstrap packages separately:
 npm install redux react-bootstrap
 
-Usage
+### Usage
 
 1. Start the development server:
 npm start
