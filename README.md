@@ -1,17 +1,17 @@
 # Hangman Game App
 
-The Hangman Game App is a simple word guessing game built using React and Redux. Players can guess letters to uncover a hidden word, and the game provides clues and visual feedback as the player progresses.
+The Hangman Game App is a simple word guessing game built using React and Redux. Players can guess letters to uncover a hidden word, and the game provides rules, strategies and visual feedback as the player progresses.
 
 ## Table of Contents
 
 - [What the Project Does](#what-the-project-does)
 - [Why the Project is Useful](#why-the-project-is-useful)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Getting Help](#getting-help)
-- [Maintainers and Contributors](#maintainers-and-contributors)
+- [FAQs](#faqs)
+
 
 ## What the Project Does
 
@@ -66,7 +66,7 @@ npm start
 
 6. Clicking the ‘Show Strategies’ button renders and on-screen alert, that highlights strategies one could possibly use to succeed in winning the game.
 
-### FAQ's
+### FAQs
 
 Q: How do I start playing the Hangman Game?
 A: To start playing the Hangman Game, follow these steps:
