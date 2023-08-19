@@ -40,11 +40,11 @@ Before you begin, ensure you have the following installed on your Windows PC:
 
 1. Clone the repository using Git:
 
-  git clone https://github.com/your-username/hangman-game.git
+  git clone https://github.com/ShermanK78/redux-react-hangman-app.git
 
 3. Navigate to the project directory:
   
-  cd redux-hangman-app
+  cd redux-react-hangman-app
 
 6. Install the project dependencies:
 
